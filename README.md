@@ -1,5 +1,5 @@
 # 💫 About Me:
-![]()
+![](https://github.com/qthuy2k1/qthuy2k1/blob/main/assets/github-header-image.png)
 
 # 💻 Tech Stack:
 
