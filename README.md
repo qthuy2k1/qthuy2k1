@@ -1,5 +1,8 @@
 # 💫 About Me:
-![](https://github.com/qthuy2k1/qthuy2k1/blob/main/assets/github-header-image.png)
+
+<p align="center">
+    ![](https://github.com/qthuy2k1/qthuy2k1/blob/main/assets/github-header-image.png)
+</p>
 
 # 💻 Tech Stack:
 
@@ -7,10 +10,14 @@
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=qthuy2k1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=qthuy2k1&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=qthuy2k1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)
+<p align="center">
+    ![](https://github-readme-stats.vercel.app/api?username=qthuy2k1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+    ![](https://github-readme-streak-stats.herokuapp.com/?user=qthuy2k1&theme=vue-dark&hide_border=false)<br/>
+    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=qthuy2k1&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&langs_count=10)
+</p>
 
 ### ✍️ Random Dev Quote
 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+<p align="center">
+    ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+</p>
